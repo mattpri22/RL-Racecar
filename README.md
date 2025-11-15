@@ -183,7 +183,7 @@ RL-Racing-Game/
 │   ├── config/
 │   │   └── config_single.yaml                    # PPO hyperparameters
 │   ├── Prefabs/                                  # Car, obstacles, track tiles
-│   ├── Materials/                                # Sprites and visual assets
+│   ├── F1Car/                                    # Sprites and visual assets
 │   └── ML-Agents/                                # ML-Agents package
 ├── Packages/
 ├── ProjectSettings/
