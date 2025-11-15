@@ -1,0 +1,65 @@
+{
+    "CarAgent": {
+        "checkpoints": [
+            {
+                "steps": 1999413,
+                "file_path": "results/Racecar_Obstacle2/CarAgent/CarAgent-1999413.onnx",
+                "reward": 19.022649901253835,
+                "creation_time": 1746811588.893713,
+                "auxillary_file_paths": [
+                    "results/Racecar_Obstacle2/CarAgent/CarAgent-1999413.pt"
+                ]
+            },
+            {
+                "steps": 2499810,
+                "file_path": "results/Racecar_Obstacle2/CarAgent/CarAgent-2499810.onnx",
+                "reward": 8.236637473106384,
+                "creation_time": 1746813670.3533728,
+                "auxillary_file_paths": [
+                    "results/Racecar_Obstacle2/CarAgent/CarAgent-2499810.pt"
+                ]
+            },
+            {
+                "steps": 2999619,
+                "file_path": "results/Racecar_Obstacle2/CarAgent/CarAgent-2999619.onnx",
+                "reward": -0.3272923060825893,
+                "creation_time": 1746815749.104904,
+                "auxillary_file_paths": [
+                    "results/Racecar_Obstacle2/CarAgent/CarAgent-2999619.pt"
+                ]
+            },
+            {
+                "steps": 3499743,
+                "file_path": "results/Racecar_Obstacle2/CarAgent/CarAgent-3499743.onnx",
+                "reward": 370.91096210479736,
+                "creation_time": 1746817832.6650019,
+                "auxillary_file_paths": [
+                    "results/Racecar_Obstacle2/CarAgent/CarAgent-3499743.pt"
+                ]
+            },
+            {
+                "steps": 3627227,
+                "file_path": "results/Racecar_Obstacle2/CarAgent/CarAgent-3627227.onnx",
+                "reward": null,
+                "creation_time": 1746818370.455481,
+                "auxillary_file_paths": [
+                    "results/Racecar_Obstacle2/CarAgent/CarAgent-3627227.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3627227,
+            "file_path": "results/Racecar_Obstacle2/CarAgent.onnx",
+            "reward": null,
+            "creation_time": 1746818370.455481,
+            "auxillary_file_paths": [
+                "results/Racecar_Obstacle2/CarAgent/CarAgent-3627227.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.11.0"
+    }
+}

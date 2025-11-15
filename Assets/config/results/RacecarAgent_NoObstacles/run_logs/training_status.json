@@ -1,0 +1,56 @@
+{
+    "CarAgent": {
+        "checkpoints": [
+            {
+                "steps": 499937,
+                "file_path": "results/RacecarAgent_NoObstacles/CarAgent/CarAgent-499937.onnx",
+                "reward": null,
+                "creation_time": 1742408949.392786,
+                "auxillary_file_paths": [
+                    "results/RacecarAgent_NoObstacles/CarAgent/CarAgent-499937.pt"
+                ]
+            },
+            {
+                "steps": 999735,
+                "file_path": "results/RacecarAgent_NoObstacles/CarAgent/CarAgent-999735.onnx",
+                "reward": null,
+                "creation_time": 1742411110.79399,
+                "auxillary_file_paths": [
+                    "results/RacecarAgent_NoObstacles/CarAgent/CarAgent-999735.pt"
+                ]
+            },
+            {
+                "steps": 1499735,
+                "file_path": "results/RacecarAgent_NoObstacles/CarAgent/CarAgent-1499735.onnx",
+                "reward": null,
+                "creation_time": 1742413230.258427,
+                "auxillary_file_paths": [
+                    "results/RacecarAgent_NoObstacles/CarAgent/CarAgent-1499735.pt"
+                ]
+            },
+            {
+                "steps": 1500235,
+                "file_path": "results/RacecarAgent_NoObstacles/CarAgent/CarAgent-1500235.onnx",
+                "reward": null,
+                "creation_time": 1742413230.301667,
+                "auxillary_file_paths": [
+                    "results/RacecarAgent_NoObstacles/CarAgent/CarAgent-1500235.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1500235,
+            "file_path": "results/RacecarAgent_NoObstacles/CarAgent.onnx",
+            "reward": null,
+            "creation_time": 1742413230.301667,
+            "auxillary_file_paths": [
+                "results/RacecarAgent_NoObstacles/CarAgent/CarAgent-1500235.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.11.0"
+    }
+}

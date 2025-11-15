@@ -1,0 +1,65 @@
+{
+    "CarAgent": {
+        "checkpoints": [
+            {
+                "steps": 3499985,
+                "file_path": "results/Racecar_Obstacle1_LearningRate3e-5/CarAgent/CarAgent-3499985.onnx",
+                "reward": 12.64628521601359,
+                "creation_time": 1743877392.335438,
+                "auxillary_file_paths": [
+                    "results/Racecar_Obstacle1_LearningRate3e-5/CarAgent/CarAgent-3499985.pt"
+                ]
+            },
+            {
+                "steps": 3999997,
+                "file_path": "results/Racecar_Obstacle1_LearningRate3e-5/CarAgent/CarAgent-3999997.onnx",
+                "reward": 17.70999836921692,
+                "creation_time": 1743879487.996895,
+                "auxillary_file_paths": [
+                    "results/Racecar_Obstacle1_LearningRate3e-5/CarAgent/CarAgent-3999997.pt"
+                ]
+            },
+            {
+                "steps": 4499504,
+                "file_path": "results/Racecar_Obstacle1_LearningRate3e-5/CarAgent/CarAgent-4499504.onnx",
+                "reward": -8.888788541158041,
+                "creation_time": 1743881578.6651158,
+                "auxillary_file_paths": [
+                    "results/Racecar_Obstacle1_LearningRate3e-5/CarAgent/CarAgent-4499504.pt"
+                ]
+            },
+            {
+                "steps": 4999405,
+                "file_path": "results/Racecar_Obstacle1_LearningRate3e-5/CarAgent/CarAgent-4999405.onnx",
+                "reward": 27.233309984207153,
+                "creation_time": 1743883672.1420429,
+                "auxillary_file_paths": [
+                    "results/Racecar_Obstacle1_LearningRate3e-5/CarAgent/CarAgent-4999405.pt"
+                ]
+            },
+            {
+                "steps": 5000155,
+                "file_path": "results/Racecar_Obstacle1_LearningRate3e-5/CarAgent/CarAgent-5000155.onnx",
+                "reward": 27.233309984207153,
+                "creation_time": 1743883672.1874769,
+                "auxillary_file_paths": [
+                    "results/Racecar_Obstacle1_LearningRate3e-5/CarAgent/CarAgent-5000155.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5000155,
+            "file_path": "results/Racecar_Obstacle1_LearningRate3e-5/CarAgent.onnx",
+            "reward": 27.233309984207153,
+            "creation_time": 1743883672.1874769,
+            "auxillary_file_paths": [
+                "results/Racecar_Obstacle1_LearningRate3e-5/CarAgent/CarAgent-5000155.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.11.0"
+    }
+}

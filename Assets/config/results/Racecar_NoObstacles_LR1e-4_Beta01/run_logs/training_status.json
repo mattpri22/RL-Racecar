@@ -1,0 +1,56 @@
+{
+    "CarAgent": {
+        "checkpoints": [
+            {
+                "steps": 499873,
+                "file_path": "results/Racecar_NoObstacles_LR1e-4_Beta01/CarAgent/CarAgent-499873.onnx",
+                "reward": 543.4754257202148,
+                "creation_time": 1746280556.743222,
+                "auxillary_file_paths": [
+                    "results/Racecar_NoObstacles_LR1e-4_Beta01/CarAgent/CarAgent-499873.pt"
+                ]
+            },
+            {
+                "steps": 999832,
+                "file_path": "results/Racecar_NoObstacles_LR1e-4_Beta01/CarAgent/CarAgent-999832.onnx",
+                "reward": null,
+                "creation_time": 1746282706.847136,
+                "auxillary_file_paths": [
+                    "results/Racecar_NoObstacles_LR1e-4_Beta01/CarAgent/CarAgent-999832.pt"
+                ]
+            },
+            {
+                "steps": 1499286,
+                "file_path": "results/Racecar_NoObstacles_LR1e-4_Beta01/CarAgent/CarAgent-1499286.onnx",
+                "reward": 648.1557550430298,
+                "creation_time": 1746284779.7855082,
+                "auxillary_file_paths": [
+                    "results/Racecar_NoObstacles_LR1e-4_Beta01/CarAgent/CarAgent-1499286.pt"
+                ]
+            },
+            {
+                "steps": 1500036,
+                "file_path": "results/Racecar_NoObstacles_LR1e-4_Beta01/CarAgent/CarAgent-1500036.onnx",
+                "reward": 648.1557550430298,
+                "creation_time": 1746284779.8311949,
+                "auxillary_file_paths": [
+                    "results/Racecar_NoObstacles_LR1e-4_Beta01/CarAgent/CarAgent-1500036.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1500036,
+            "file_path": "results/Racecar_NoObstacles_LR1e-4_Beta01/CarAgent.onnx",
+            "reward": 648.1557550430298,
+            "creation_time": 1746284779.8311949,
+            "auxillary_file_paths": [
+                "results/Racecar_NoObstacles_LR1e-4_Beta01/CarAgent/CarAgent-1500036.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.11.0"
+    }
+}
