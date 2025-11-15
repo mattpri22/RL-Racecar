@@ -6,7 +6,7 @@ An autonomous racing agent trained using reinforcement learning to navigate proc
   <img src="assets_github/demo.gif" alt="Demo" width="800"/>
 </p>
 
-## Overview
+## Overview
 
 This project implements an autonomous racing agent using Unity's ML-Agents toolkit and Proximal Policy Optimization (PPO). The agent learns to navigate procedurally generated tracks filled with obstacles including tires, oil slicks, barriers, and ramps through trial and error reinforcement learning.
 
